@@ -88,3 +88,11 @@ Este último le da un ID de modificación y también el mensaje que pusimos en e
 - cat "archivo" : muestra el contenido del archivo
 
 - git merge "ramab": trae los cambios efectuados en la ramab.
+
+## Conectar con Github:
+
+- git remote add origin "https://..." : agregamos un origen remoto de una página creada o nueva.
+
+- git push -u origin "master" : creamos la rama en el repositorio para poder trabajar sobre ella.
+
+Cuando seguimos trabajando sobre la misma rama usamos el comando anterior sin "-u ...".
