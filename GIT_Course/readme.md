@@ -61,3 +61,16 @@ Luego del commit siempre el archivo se lleva a un servidor, como por ejemplo Git
 Por ejemplo, las variables de configuración como usuarios, contraseñas, etc.
 
 Para esto generamos un archivo donde colocamos en cada línea el archivo o carpeta que queremos ignorar
+
+## Otra forma de mostrar un git status con menos info
+
+- git status -s : 
+
+Este entrega los archivos que han presentado modificaciones con la siguiente notación:
+
+Colores : Rojo -> No seguido, Verde -> En Stage
+M: modificado 
+?? : archivo no agregado
+A : archivo que está siendo agregado (en Stage)
+
+- git diff : Representa los cambios que estamos agregando. Suele mostrar los saltos de línea como el hecho de borrar y volver a escribir una línea pues esta no contaba inicialmente con "CR".
