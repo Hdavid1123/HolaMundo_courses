@@ -73,4 +73,9 @@ M: modificado
 ?? : archivo no agregado
 A : archivo que está siendo agregado (en Stage)
 
-- git diff : Representa los cambios que estamos agregando. Suele mostrar los saltos de línea como el hecho de borrar y volver a escribir una línea pues esta no contaba inicialmente con "CR".
+- git diff : Representa los cambios que estamos agregando. Suele mostrar los saltos de línea como el hecho de borrar y volver a escribir una línea pues esta no contaba inicialmente con "CR". Al agregar "--stage" muestra solo los cambios que han sido subidos al stage.
+
+- git log : Muestra el historial de cambio pero con mucha información incluyendo incluso los correos electrónicos de quien hizo el cambio. Para facilitar la visión de este archivo usamos "--oneline".
+
+Este último le da un ID de modificación y también el mensaje que pusimos en el commit.
+
