@@ -30,6 +30,7 @@ El "--global" hace que git trabaje todos lo proyectos con esta configuración; p
 Los sistemas operativos de Windows tratan los saltos de línea usando los caracteres "CR + LF", mientras que en Linux o Mac solo tenemos "LF", por lo tanto para configurar la eliminación o descarga del "CR" usamos:
 
 - git config --global core.autocrlf "input - Linux / true - Windows".
+_________________________________________
 
 - git add : 
 
@@ -40,10 +41,9 @@ Existen muchas formas de añadir los archivos la más usada es cuando estamos se
 Para agregar una carpeta completa usarmos "git add Carpeta/"
 
 Para agregar extensiones de archivos hacemos "*.txt" correspondiente a una expresión regular.
-
-
+____________________________________________
 
 - git commit : 
 
-Luego del commit siempre el archivo se lleva a un servidor, como por ejemplo Git Hub.
+Luego del commit siempre el archivo se lleva a un servidor, como por ejemplo Git Hub. Para realizar este generalmente agregamos "-m" para enviar un mensaje explicativo sobre el commit realizado.
 
