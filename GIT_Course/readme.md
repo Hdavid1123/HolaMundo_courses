@@ -56,3 +56,8 @@ Luego del commit siempre el archivo se lleva a un servidor, como por ejemplo Git
 
 - git mv "archivo1.txt" "archivo.txt"
 
+## Archivos que se ignoran siempre:
+
+Por ejemplo, las variables de configuración como usuarios, contraseñas, etc.
+
+Para esto generamos un archivo donde colocamos en cada línea el archivo o carpeta que queremos ignorar
