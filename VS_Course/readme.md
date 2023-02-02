@@ -1,0 +1,1 @@
+Este readme no tiene nada interesante, porque el archivo con el que se trabajó en el curso está en el repositorio de Schurmann.

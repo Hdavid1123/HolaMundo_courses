@@ -1,8 +1,0 @@
-Esto kkkkkkkkkkkkkkkkkk
-es mundo readme asdasdsadsadsadsadasdasd
-separado asdasdsadsadsadasdsadsadsadsadsad
-por muchos asdasdsadsadsadadsasdasdasd
-\n adasdasdasdsadsadsadaasdsadsadsadsa
-no es increíble vdfdsfdsfsdgdsg
-mundo asdsasdsadsadasdsadasdasdsadsaddscxvv
-variable en mundo programaasdasdsadsadxcvcxvs
