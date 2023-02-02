@@ -54,5 +54,5 @@ Luego del commit siempre el archivo se lleva a un servidor, como por ejemplo Git
 
 - git restore --staged <file> : retrocede los cambios de la etapa de Stage.
 
-
+- git mv "archivo1.txt" "archivo.txt"
 
