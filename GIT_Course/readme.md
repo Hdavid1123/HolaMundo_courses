@@ -49,5 +49,10 @@ ____________________________________________
 
 Luego del commit siempre el archivo se lleva a un servidor, como por ejemplo Git Hub. Para realizar este generalmente agregamos "-m" para enviar un mensaje explicativo sobre el commit realizado.
 
-- rm "archivo.txt" : eliminar
+- rm "archivo.txt" : eliminar + git commit.
+- git rm "archivo.txt" : junta los dos comandos anteriores.
+
+- git restore --staged <file> : retrocede los cambios de la etapa de Stage.
+
+
 
