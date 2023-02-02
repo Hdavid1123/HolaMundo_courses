@@ -41,9 +41,13 @@ Existen muchas formas de añadir los archivos la más usada es cuando estamos se
 Para agregar una carpeta completa usarmos "git add Carpeta/"
 
 Para agregar extensiones de archivos hacemos "*.txt" correspondiente a una expresión regular.
+
+Para agregar varios archivos dejamos un espacio entre ellos.
 ____________________________________________
 
 - git commit : 
 
 Luego del commit siempre el archivo se lleva a un servidor, como por ejemplo Git Hub. Para realizar este generalmente agregamos "-m" para enviar un mensaje explicativo sobre el commit realizado.
+
+- rm "archivo.txt" : eliminar
 
