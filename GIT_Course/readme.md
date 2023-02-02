@@ -77,5 +77,14 @@ A : archivo que está siendo agregado (en Stage)
 
 - git log : Muestra el historial de cambio pero con mucha información incluyendo incluso los correos electrónicos de quien hizo el cambio. Para facilitar la visión de este archivo usamos "--oneline".
 
-Este último le da un ID de modificación y también el mensaje que pusimos en el commit.
+Este último le da un ID de modificación y también el mensaje que pusimos en el commit. Para salir de cualquiera de las dos interfaces de git log solo es necesario presionar la letra Q.
 
+## Crear Ramas y enviar Merge a la rama principal:
+
+- git branch : mostrar la rama en la que estamos
+- git checkout -b "ramab" : crear una rama nueva
+- git checkout "rama" : cambia la rama de trabajo
+
+- cat "archivo" : muestra el contenido del archivo
+
+- git merge "ramab": trae los cambios efectuados en la ramab.
