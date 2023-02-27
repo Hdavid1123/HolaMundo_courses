@@ -10,11 +10,11 @@
 - CREATED : tiempo de creación en Docker Hub.
 - SIZE : espacio en disco duro.
 
+2. docker pull "tec":"version"
+
 Se puede descargar exactamente la misma imagen pero con etiquetas distintas, el mejor diferenciador de estas es el ID.
 
-El formato para descargar con una versión a elección está dada por la notación:
-
-    tec : version
+3. docker image rm "tec":"version"
 
 ## Crear contenedores
 
